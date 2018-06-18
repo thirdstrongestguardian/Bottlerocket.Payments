@@ -1,6 +1,6 @@
 using System;
 
-namespace BottleRocket.Payments
+namespace MoonStorm.Payments
 {
 	public class MerchantAuthentication
 	{
