@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace MoonStorm.Payments
+namespace Bottlerocket.Payments
 {
 	public class Messages
 	{

@@ -1,6 +1,6 @@
 using System;
 
-namespace MoonStorm.Payments
+namespace Bottlerocket.Payments
 {
 	public class Message
 	{
